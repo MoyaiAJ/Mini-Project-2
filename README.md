@@ -12,10 +12,15 @@ A simple offline-first Android app that fetches users from the JSONPlaceholder A
 
 ## Screenshots
 * Opening app with internet
+
 <img width="160" height="357" alt="Image" src="https://github.com/user-attachments/assets/9f9056a5-175f-4886-a7bc-06630a8e2526" />
+
 * Opening app without internet
+
 <img width="160" height="357" alt="Image" src="https://github.com/user-attachments/assets/a280d37c-731b-4dc8-b4bc-3e327c2c06cc" />
+
 * Search bar at the top searching by name
+
 <img width="160" height="357" alt="Image" src="https://github.com/user-attachments/assets/4d0782d4-9689-48a7-ad39-3c1da042caef" />
 
 
